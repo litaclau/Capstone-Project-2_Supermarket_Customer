@@ -84,7 +84,7 @@ Perilaku pembelian ini meliputi:
 3. Menyusun insight dari hasil analisis secara naratif untuk mendukung pengambilan keputusan strategis.
 4. Memberikan rekomendasi taktis untuk peningkatan penjualan dan pemasaran berdasarkan segmentasi pelanggan.
 ---
-## 🎯 Tujuan Analisis
+## Tujuan Analisis
 
 1. **Mengetahui karakteristik dan preferensi pelanggan** agar dapat memahami siapa target pasar utama dan apa yang mereka sukai.
 2. **Mengevaluasi performa penjualan produk, efektivitas promosi, dan platform pembelian** dalam 2 tahun terakhir.
@@ -92,7 +92,7 @@ Perilaku pembelian ini meliputi:
 4. **Menyusun insight dan rekomendasi** sebagai dasar pengambilan keputusan bisnis.
 
 ---
-## ANALYSIS Dibagi menjadi beberapa bagian bab sebegai berikut
+## Analysis dibagi menjadi beberapa bagian bab sebegai berikut
 1. BAB 1 - Mengenal Karakteristik dan Preferensi Pelanggan
 2. BAB 2 - Evaluasi Penjualan, Promosi, dan Sarana Pembelian
 3. BAB 3 - Evaluasi Strategi Pemasaran dari Tren Pendaftaran Member
@@ -100,4 +100,7 @@ Perilaku pembelian ini meliputi:
 ---
 
 Informasi Kontak: Jika terdapat pertanyaan mengenai program ini, silakan hubungi saya melalui email litaclaudy4@gmail.com
+
 Terima Kasih,
+
+© Solita Claudya Aguilera 2025. All rights reserved.
