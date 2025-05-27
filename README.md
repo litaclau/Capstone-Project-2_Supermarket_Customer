@@ -104,9 +104,3 @@ TABLEAU STORY
 This is the link to tableau story : https://tabsoft.co/3SiQA3k
 
 ---
-
-Informasi Kontak: Jika terdapat pertanyaan mengenai program ini, silakan hubungi saya melalui email litaclaudy4@gmail.com
-
-Terima Kasih,
-
-© Solita Claudya Aguilera 2025. All rights reserved.
