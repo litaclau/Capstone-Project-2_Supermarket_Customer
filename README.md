@@ -1,7 +1,5 @@
 # CAPSTONE 2 SUPERMARKET CUSTOMER ANALYSIS
 ---
-SOLITA CLAUDYA AGUILERA
----
 ## 📊 **DATA UNDERSTANDING**
 ### 📁 Sumber Dataset
 Data ini disediakan oleh **Purwadhika** untuk keperluan *Capstone Project 2*.  
@@ -99,3 +97,7 @@ Perilaku pembelian ini meliputi:
 2. BAB 2 - Evaluasi Penjualan, Promosi, dan Sarana Pembelian
 3. BAB 3 - Evaluasi Strategi Pemasaran dari Tren Pendaftaran Member
 4. BAB 4 - Insight Bisnis dan Rekomendasi Strategis
+---
+
+Informasi Kontak: Jika terdapat pertanyaan mengenai program ini, silakan hubungi saya melalui email litaclaudy4@gmail.com
+Terima Kasih,
