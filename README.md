@@ -1,15 +1,8 @@
-# ✨CAPSTONE 2 SUPERMARKET CUSTOMER ANALYSIS✨
+# CAPSTONE 2 SUPERMARKET CUSTOMER ANALYSIS
+---
 SOLITA CLAUDYA AGUILERA
 ---
 ## 📊 **DATA UNDERSTANDING**
----
-**Proses yang dilakukan yakni:**
-- Memahami definisi operasional setiap kolom 
-- Melihat ada tidaknya anomali data 
-- Melihat data awal secara statistik 
-- Menampilkan visualisasi data awal (histogram & boxplot)
-- Menentukan data yang perlu dirapikan dan kolom data yang akan digunakan atau dibuang
----
 ### 📁 Sumber Dataset
 Data ini disediakan oleh **Purwadhika** untuk keperluan *Capstone Project 2*.  
 ---
@@ -74,10 +67,19 @@ Perilaku pembelian ini meliputi:
 | `NumStorePurchases`    | Jumlah pembelian langsung di toko |
 | `NumWebVisitsMonth`    | Jumlah kunjungan ke situs web dalam sebulan terakhir |
 
+## 📊 **DATA CLEANING**
+**Proses yang dilakukan yakni:**
+- Memahami definisi operasional setiap kolom 
+- Melihat ada tidaknya anomali data 
+- Melihat data awal secara statistik 
+- Menampilkan visualisasi data awal (histogram & boxplot)
+- Menentukan data yang perlu dirapikan dan kolom data yang akan digunakan atau dibuang
+---
+
 
 ---
 
-# 📊 **DATA ANALYSIS PLAN**
+# 📊 **DATA ANALYSIS**
 
 1. Melakukan eksplorasi dan pemahaman data pelanggan (profil demografis, belanja, Campaign, dan platform pembelian).
 2. Menggunakan visualisasi data untuk menjawab pertanyaan analisis dan mendeteksi pola atau anomali.
