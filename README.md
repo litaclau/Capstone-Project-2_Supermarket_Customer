@@ -92,11 +92,11 @@ Perilaku pembelian ini meliputi:
 4. **Menyusun insight dan rekomendasi** sebagai dasar pengambilan keputusan bisnis.
 
 ---
-## Analysis dibagi menjadi beberapa bagian bab sebegai berikut
-1. BAB 1 - Mengenal Karakteristik dan Preferensi Pelanggan
-2. BAB 2 - Evaluasi Penjualan, Promosi, dan Sarana Pembelian
-3. BAB 3 - Evaluasi Strategi Pemasaran dari Tren Pendaftaran Member
-4. BAB 4 - Insight Bisnis dan Rekomendasi Strategis
+## Proses Analysis dibagi menjadi beberapa bagian sebegai berikut
+1. Bagian 1 - Mengenal Karakteristik dan Preferensi Pelanggan
+2. Bagian 2 - Evaluasi Penjualan, Promosi, dan Sarana Pembelian
+3. Bagian 3 - Evaluasi Strategi Pemasaran dari Tren Pendaftaran Member
+4. Bagian 4 - Insight Bisnis dan Rekomendasi Strategis
 ---
 
 TABLEAU STORY
